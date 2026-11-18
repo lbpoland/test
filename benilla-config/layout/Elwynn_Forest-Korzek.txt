@@ -1,0 +1,1 @@
+# benilla window layout: every frame the player has moved or resized, as layout-cache.txt has it.

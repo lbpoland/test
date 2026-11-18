@@ -1,0 +1,2 @@
+Azeroth AutoPick — The Build Forge v2.1
+Bugfix release: correct game-window discovery; verified foreground-only automation; preview scan window timing.

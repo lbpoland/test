@@ -1,0 +1,954 @@
+{
+  "Warrior — Whirlwind AoE": {
+    "class": "Warrior",
+    "style": "Whirlwind AoE",
+    "level": [
+      "Whirlwind",
+      "Thunder Clap",
+      "Battle Shout",
+      "Bloodthirst",
+      "Mortal Strike",
+      "Execute"
+    ],
+    "loot": [
+      "Quick Strike Ring",
+      "Ring of Spell Power",
+      "Talisman of Ephemeral Power",
+      "Hand of Justice",
+      "Band of Accuria",
+      "Star of Mystaria",
+      "Malice Stone Pendant",
+      "Choker of the Fire Lord"
+    ],
+    "avoid": [],
+    "banish_loot": [],
+    "capstone": "Bladestorm",
+    "race": "Orc or Tauren",
+    "description": "Repeated area Whirlwind and haste",
+    "verified_capstone": false,
+    "passives": [
+      "Blessing of Might",
+      "Arcane Intellect",
+      "Amplify Magic",
+      "Power Word: Fortitude",
+      "Blessing of Kings",
+      "Mark of the Wild"
+    ]
+  },
+  "Warrior — Shield survival": {
+    "class": "Warrior",
+    "style": "Shield survival",
+    "level": [
+      "Shield Slam",
+      "Demoralizing Shout",
+      "Battle Shout",
+      "Whirlwind",
+      "Bloodthirst",
+      "Thunder Clap"
+    ],
+    "loot": [
+      "Archimtiros' Ring of Reckoning",
+      "Star of Mystaria",
+      "Heavy Dark Iron Ring",
+      "Lifegiving Gem",
+      "Blooddrinker's Band",
+      "Quick Strike Ring",
+      "Onyxia Blood Talisman"
+    ],
+    "avoid": [],
+    "banish_loot": [],
+    "capstone": "Titan",
+    "race": "Orc or Tauren",
+    "description": "Mitigation and maximum-health scaling",
+    "verified_capstone": false,
+    "passives": [
+      "Power Word: Fortitude",
+      "Mark of the Wild",
+      "Blessing of Might",
+      "Arcane Intellect",
+      "Blessing of Kings",
+      "Amplify Magic"
+    ]
+  },
+  "Warrior — Bleed / execute": {
+    "class": "Warrior",
+    "style": "Bleed / execute",
+    "level": [
+      "Rend",
+      "Execute",
+      "Mortal Strike",
+      "Bloodthirst",
+      "Whirlwind",
+      "Battle Shout"
+    ],
+    "loot": [
+      "Seal of the Damned",
+      "Quick Strike Ring",
+      "Earthstrike",
+      "Band of Accuria",
+      "Blooddrinker's Band",
+      "Pendant of the Plague",
+      "Hand of Justice"
+    ],
+    "avoid": [],
+    "banish_loot": [],
+    "capstone": "Mortal Wounds",
+    "race": "Orc or Tauren",
+    "description": "Bleeds plus resets on executes",
+    "verified_capstone": false,
+    "passives": [
+      "Blessing of Might",
+      "Arcane Intellect",
+      "Amplify Magic",
+      "Power Word: Fortitude",
+      "Blessing of Kings",
+      "Mark of the Wild"
+    ]
+  },
+  "Paladin — Consecration AoE": {
+    "class": "Paladin",
+    "style": "Consecration AoE",
+    "level": [
+      "Consecration",
+      "Holy Shield",
+      "Divine Shield",
+      "Holy Wrath",
+      "Holy Light",
+      "Judgement"
+    ],
+    "loot": [
+      "Quick Strike Ring",
+      "Ring of Spell Power",
+      "Talisman of Ephemeral Power",
+      "Hand of Justice",
+      "Band of Accuria",
+      "Star of Mystaria",
+      "Malice Stone Pendant",
+      "Choker of the Fire Lord"
+    ],
+    "avoid": [],
+    "banish_loot": [],
+    "capstone": "Light's Grace",
+    "race": "Dwarf or Human",
+    "description": "Consecration uptime, area and survival",
+    "verified_capstone": false,
+    "passives": [
+      "Blessing of Might",
+      "Arcane Intellect",
+      "Amplify Magic",
+      "Power Word: Fortitude",
+      "Blessing of Kings",
+      "Mark of the Wild"
+    ]
+  },
+  "Paladin — Shield bastion": {
+    "class": "Paladin",
+    "style": "Shield bastion",
+    "level": [
+      "Divine Shield",
+      "Holy Shield",
+      "Consecration",
+      "Holy Light",
+      "Hammer of Justice",
+      "Holy Wrath"
+    ],
+    "loot": [
+      "Archimtiros' Ring of Reckoning",
+      "Star of Mystaria",
+      "Heavy Dark Iron Ring",
+      "Lifegiving Gem",
+      "Blooddrinker's Band",
+      "Quick Strike Ring",
+      "Onyxia Blood Talisman"
+    ],
+    "avoid": [],
+    "banish_loot": [],
+    "capstone": "Hammer of the Righteous",
+    "race": "Dwarf or Human",
+    "description": "Shield synergies and high max health",
+    "verified_capstone": false,
+    "passives": [
+      "Power Word: Fortitude",
+      "Mark of the Wild",
+      "Blessing of Might",
+      "Arcane Intellect",
+      "Blessing of Kings",
+      "Amplify Magic"
+    ]
+  },
+  "Paladin — Holy burst": {
+    "class": "Paladin",
+    "style": "Holy burst",
+    "level": [
+      "Holy Shock",
+      "Exorcism",
+      "Hammer of Wrath",
+      "Holy Wrath",
+      "Consecration",
+      "Judgement"
+    ],
+    "loot": [
+      "Master Dragonslayer's Ring",
+      "Blackhand's Breadth",
+      "Band of Accuria",
+      "Hand of Justice",
+      "Earthstrike",
+      "Quick Strike Ring",
+      "Onyxia Tooth Pendant"
+    ],
+    "avoid": [],
+    "banish_loot": [],
+    "capstone": "Divine Storm",
+    "race": "Dwarf or Human",
+    "description": "Exorcism chains and critical strikes",
+    "verified_capstone": false,
+    "passives": [
+      "Blessing of Kings",
+      "Blessing of Might",
+      "Arcane Intellect",
+      "Amplify Magic",
+      "Power Word: Fortitude",
+      "Aspect of the Pack"
+    ]
+  },
+  "Hunter — Crit sniper": {
+    "class": "Hunter",
+    "style": "Crit sniper",
+    "level": [
+      "Aimed Shot",
+      "Auto Shot",
+      "Arcane Shot",
+      "Multi-Shot",
+      "Hunter's Mark",
+      "Concussive Shot"
+    ],
+    "loot": [
+      "Master Dragonslayer's Ring",
+      "Blackhand's Breadth",
+      "Band of Accuria",
+      "Hand of Justice",
+      "Earthstrike",
+      "Quick Strike Ring",
+      "Onyxia Tooth Pendant"
+    ],
+    "avoid": [],
+    "banish_loot": [],
+    "capstone": "Kill Shot",
+    "race": "Troll",
+    "description": "Aimed Shot resets and crit chance",
+    "verified_capstone": false,
+    "passives": [
+      "Blessing of Kings",
+      "Blessing of Might",
+      "Arcane Intellect",
+      "Amplify Magic",
+      "Power Word: Fortitude",
+      "Aspect of the Pack"
+    ]
+  },
+  "Hunter — Volley AoE": {
+    "class": "Hunter",
+    "style": "Volley AoE",
+    "level": [
+      "Volley",
+      "Multi-Shot",
+      "Explosive Trap",
+      "Arcane Shot",
+      "Auto Shot",
+      "Frost Trap"
+    ],
+    "loot": [
+      "Quick Strike Ring",
+      "Ring of Spell Power",
+      "Talisman of Ephemeral Power",
+      "Hand of Justice",
+      "Band of Accuria",
+      "Star of Mystaria",
+      "Malice Stone Pendant",
+      "Choker of the Fire Lord"
+    ],
+    "avoid": [],
+    "banish_loot": [],
+    "capstone": "Bestial Wrath",
+    "race": "Troll",
+    "description": "Wide area and shot coverage",
+    "verified_capstone": false,
+    "passives": [
+      "Blessing of Might",
+      "Arcane Intellect",
+      "Amplify Magic",
+      "Power Word: Fortitude",
+      "Blessing of Kings",
+      "Mark of the Wild"
+    ]
+  },
+  "Hunter — Trap control": {
+    "class": "Hunter",
+    "style": "Trap control",
+    "level": [
+      "Explosive Trap",
+      "Immolation Trap",
+      "Frost Trap",
+      "Volley",
+      "Multi-Shot",
+      "Concussive Shot"
+    ],
+    "loot": [
+      "Archimtiros' Ring of Reckoning",
+      "Star of Mystaria",
+      "Heavy Dark Iron Ring",
+      "Lifegiving Gem",
+      "Blooddrinker's Band",
+      "Quick Strike Ring",
+      "Onyxia Blood Talisman"
+    ],
+    "avoid": [],
+    "banish_loot": [],
+    "capstone": "Wyvern Sting",
+    "race": "Troll",
+    "description": "Crowd-control traps and mobility",
+    "verified_capstone": false,
+    "passives": [
+      "Blessing of Might",
+      "Arcane Intellect",
+      "Amplify Magic",
+      "Power Word: Fortitude",
+      "Blessing of Kings",
+      "Mark of the Wild"
+    ]
+  },
+  "Rogue — Blade Flurry": {
+    "class": "Rogue",
+    "style": "Blade Flurry",
+    "level": [
+      "Blade Flurry",
+      "Slice and Dice",
+      "Sinister Strike",
+      "Adrenaline Rush",
+      "Eviscerate",
+      "Kidney Shot"
+    ],
+    "loot": [
+      "Quick Strike Ring",
+      "Talisman of Ephemeral Power",
+      "Band of Accuria",
+      "Hand of Justice",
+      "Ring of Spell Power",
+      "Earthstrike"
+    ],
+    "avoid": [],
+    "banish_loot": [],
+    "capstone": "Killing Spree",
+    "race": "Night Elf",
+    "description": "Fast chained attacks and cleaves",
+    "verified_capstone": false,
+    "passives": [
+      "Arcane Intellect",
+      "Blessing of Might",
+      "Amplify Magic",
+      "Blessing of Kings",
+      "Power Word: Fortitude",
+      "Mark of the Wild"
+    ]
+  },
+  "Rogue — Crit assassin": {
+    "class": "Rogue",
+    "style": "Crit assassin",
+    "level": [
+      "Eviscerate",
+      "Backstab",
+      "Sinister Strike",
+      "Seal Fate",
+      "Adrenaline Rush",
+      "Ghostly Strike"
+    ],
+    "loot": [
+      "Master Dragonslayer's Ring",
+      "Blackhand's Breadth",
+      "Band of Accuria",
+      "Hand of Justice",
+      "Earthstrike",
+      "Quick Strike Ring",
+      "Onyxia Tooth Pendant"
+    ],
+    "avoid": [],
+    "banish_loot": [],
+    "capstone": "Shadow Dance",
+    "race": "Night Elf",
+    "description": "Single-target crit burst and executes",
+    "verified_capstone": false,
+    "passives": [
+      "Blessing of Kings",
+      "Blessing of Might",
+      "Arcane Intellect",
+      "Amplify Magic",
+      "Power Word: Fortitude",
+      "Aspect of the Pack"
+    ]
+  },
+  "Rogue — Bleed sustain": {
+    "class": "Rogue",
+    "style": "Bleed sustain",
+    "level": [
+      "Rupture",
+      "Slice and Dice",
+      "Blade Flurry",
+      "Sinister Strike",
+      "Eviscerate",
+      "Gouge"
+    ],
+    "loot": [
+      "Seal of the Damned",
+      "Quick Strike Ring",
+      "Earthstrike",
+      "Band of Accuria",
+      "Blooddrinker's Band",
+      "Pendant of the Plague",
+      "Hand of Justice"
+    ],
+    "avoid": [],
+    "banish_loot": [],
+    "capstone": "Toxic Bloom",
+    "race": "Night Elf",
+    "description": "Bleeds and close-range sustain",
+    "verified_capstone": false,
+    "passives": [
+      "Power Word: Fortitude",
+      "Mark of the Wild",
+      "Blessing of Might",
+      "Arcane Intellect",
+      "Blessing of Kings",
+      "Amplify Magic"
+    ]
+  },
+  "Priest — Holy Nova AoE": {
+    "class": "Priest",
+    "style": "Holy Nova AoE",
+    "level": [
+      "Holy Nova",
+      "Power Word: Shield",
+      "Renew",
+      "Holy Fire",
+      "Smite",
+      "Psychic Scream"
+    ],
+    "loot": [
+      "Quick Strike Ring",
+      "Ring of Spell Power",
+      "Talisman of Ephemeral Power",
+      "Hand of Justice",
+      "Band of Accuria",
+      "Star of Mystaria",
+      "Malice Stone Pendant",
+      "Choker of the Fire Lord"
+    ],
+    "avoid": [],
+    "banish_loot": [],
+    "capstone": "Chastise",
+    "race": "Undead or Dwarf",
+    "description": "Holy Nova, shield break and crit procs",
+    "verified_capstone": false,
+    "passives": [
+      "Blessing of Might",
+      "Arcane Intellect",
+      "Amplify Magic",
+      "Power Word: Fortitude",
+      "Blessing of Kings",
+      "Mark of the Wild"
+    ]
+  },
+  "Priest — Shadow DoT": {
+    "class": "Priest",
+    "style": "Shadow DoT",
+    "level": [
+      "Shadow Word: Pain",
+      "Devouring Plague",
+      "Mind Flay",
+      "Mind Blast",
+      "Power Word: Shield",
+      "Holy Nova"
+    ],
+    "loot": [
+      "Seal of the Damned",
+      "Quick Strike Ring",
+      "Earthstrike",
+      "Band of Accuria",
+      "Blooddrinker's Band",
+      "Pendant of the Plague",
+      "Hand of Justice"
+    ],
+    "avoid": [],
+    "banish_loot": [],
+    "capstone": "Shadowform",
+    "race": "Undead or Dwarf",
+    "description": "Shadow pain spread and DoT haste",
+    "verified_capstone": false,
+    "passives": [
+      "Blessing of Might",
+      "Arcane Intellect",
+      "Amplify Magic",
+      "Power Word: Fortitude",
+      "Blessing of Kings",
+      "Mark of the Wild"
+    ]
+  },
+  "Priest — Defensive holy": {
+    "class": "Priest",
+    "style": "Defensive holy",
+    "level": [
+      "Power Word: Shield",
+      "Renew",
+      "Holy Nova",
+      "Lightwell",
+      "Holy Fire",
+      "Smite"
+    ],
+    "loot": [
+      "Archimtiros' Ring of Reckoning",
+      "Star of Mystaria",
+      "Heavy Dark Iron Ring",
+      "Lifegiving Gem",
+      "Blooddrinker's Band",
+      "Quick Strike Ring",
+      "Onyxia Blood Talisman"
+    ],
+    "avoid": [],
+    "banish_loot": [],
+    "capstone": "Penance",
+    "race": "Undead or Dwarf",
+    "description": "Shield, healing and free holy spells",
+    "verified_capstone": false,
+    "passives": [
+      "Power Word: Fortitude",
+      "Mark of the Wild",
+      "Blessing of Might",
+      "Arcane Intellect",
+      "Blessing of Kings",
+      "Amplify Magic"
+    ]
+  },
+  "Shaman — Chain lightning": {
+    "class": "Shaman",
+    "style": "Chain lightning",
+    "level": [
+      "Chain Lightning",
+      "Lightning Bolt",
+      "Lightning Shield",
+      "Earth Shock",
+      "Fire Nova",
+      "Magma Totem"
+    ],
+    "loot": [
+      "Quick Strike Ring",
+      "Ring of Spell Power",
+      "Talisman of Ephemeral Power",
+      "Hand of Justice",
+      "Band of Accuria",
+      "Star of Mystaria",
+      "Malice Stone Pendant",
+      "Choker of the Fire Lord"
+    ],
+    "avoid": [],
+    "banish_loot": [],
+    "capstone": "Elemental Mastery",
+    "race": "Troll or Orc",
+    "description": "Chain Lightning, jumps and haste",
+    "verified_capstone": false,
+    "passives": [
+      "Arcane Intellect",
+      "Blessing of Might",
+      "Amplify Magic",
+      "Blessing of Kings",
+      "Power Word: Fortitude",
+      "Mark of the Wild"
+    ]
+  },
+  "Shaman — Totem AoE": {
+    "class": "Shaman",
+    "style": "Totem AoE",
+    "level": [
+      "Magma Totem",
+      "Fire Nova",
+      "Searing Totem",
+      "Chain Lightning",
+      "Lightning Shield",
+      "Healing Wave"
+    ],
+    "loot": [
+      "Quick Strike Ring",
+      "Ring of Spell Power",
+      "Talisman of Ephemeral Power",
+      "Hand of Justice",
+      "Band of Accuria",
+      "Star of Mystaria",
+      "Malice Stone Pendant",
+      "Choker of the Fire Lord"
+    ],
+    "avoid": [],
+    "banish_loot": [],
+    "capstone": "Totemic Wrath",
+    "race": "Troll or Orc",
+    "description": "Totem uptime and free fire nova",
+    "verified_capstone": false,
+    "passives": [
+      "Blessing of Might",
+      "Arcane Intellect",
+      "Amplify Magic",
+      "Power Word: Fortitude",
+      "Blessing of Kings",
+      "Mark of the Wild"
+    ]
+  },
+  "Shaman — Elemental control": {
+    "class": "Shaman",
+    "style": "Elemental control",
+    "level": [
+      "Earth Shock",
+      "Frost Shock",
+      "Flame Shock",
+      "Chain Lightning",
+      "Lightning Shield",
+      "Healing Wave"
+    ],
+    "loot": [
+      "Archimtiros' Ring of Reckoning",
+      "Star of Mystaria",
+      "Heavy Dark Iron Ring",
+      "Lifegiving Gem",
+      "Blooddrinker's Band",
+      "Quick Strike Ring",
+      "Onyxia Blood Talisman"
+    ],
+    "avoid": [],
+    "banish_loot": [],
+    "capstone": "Stormbound Echoes",
+    "race": "Troll or Orc",
+    "description": "Shock control; capstone depends on talents",
+    "verified_capstone": false,
+    "passives": [
+      "Blessing of Might",
+      "Arcane Intellect",
+      "Amplify Magic",
+      "Power Word: Fortitude",
+      "Blessing of Kings",
+      "Mark of the Wild"
+    ]
+  },
+  "Mage — Fire explosions": {
+    "class": "Mage",
+    "style": "Fire explosions",
+    "level": [
+      "Fireball",
+      "Pyroblast",
+      "Flamestrike",
+      "Fire Blast",
+      "Blast Wave",
+      "Ice Barrier"
+    ],
+    "loot": [
+      "Quick Strike Ring",
+      "Ring of Spell Power",
+      "Talisman of Ephemeral Power",
+      "Hand of Justice",
+      "Band of Accuria",
+      "Star of Mystaria",
+      "Malice Stone Pendant",
+      "Choker of the Fire Lord"
+    ],
+    "avoid": [],
+    "banish_loot": [],
+    "capstone": "Pyroclasm",
+    "race": "Gnome",
+    "description": "Fire crits, Ignite and explosion chains",
+    "verified_capstone": false,
+    "passives": [
+      "Blessing of Might",
+      "Arcane Intellect",
+      "Amplify Magic",
+      "Power Word: Fortitude",
+      "Blessing of Kings",
+      "Mark of the Wild"
+    ]
+  },
+  "Mage — Arcane echo": {
+    "class": "Mage",
+    "style": "Arcane echo",
+    "level": [
+      "Arcane Missiles",
+      "Arcane Explosion",
+      "Ice Barrier",
+      "Frost Nova",
+      "Blizzard",
+      "Fireball"
+    ],
+    "loot": [
+      "Hand of Justice",
+      "Malice Stone Pendant",
+      "Quick Strike Ring",
+      "Talisman of Ephemeral Power",
+      "Band of Accuria",
+      "Earthstrike"
+    ],
+    "avoid": [],
+    "banish_loot": [],
+    "capstone": "Arcane Power",
+    "race": "Gnome",
+    "description": "Echo chains and rapid arcane casts",
+    "verified_capstone": false,
+    "passives": [
+      "Arcane Intellect",
+      "Blessing of Might",
+      "Amplify Magic",
+      "Blessing of Kings",
+      "Power Word: Fortitude",
+      "Mark of the Wild"
+    ]
+  },
+  "Mage — Frost control": {
+    "class": "Mage",
+    "style": "Frost control",
+    "level": [
+      "Frostbolt",
+      "Blizzard",
+      "Frost Nova",
+      "Cone of Cold",
+      "Ice Barrier",
+      "Arcane Explosion"
+    ],
+    "loot": [
+      "Archimtiros' Ring of Reckoning",
+      "Star of Mystaria",
+      "Heavy Dark Iron Ring",
+      "Lifegiving Gem",
+      "Blooddrinker's Band",
+      "Quick Strike Ring",
+      "Onyxia Blood Talisman"
+    ],
+    "avoid": [],
+    "banish_loot": [],
+    "capstone": "Summon Water Elemental",
+    "race": "Gnome",
+    "description": "Splintering frost and freezing control",
+    "verified_capstone": false,
+    "passives": [
+      "Blessing of Might",
+      "Arcane Intellect",
+      "Amplify Magic",
+      "Power Word: Fortitude",
+      "Blessing of Kings",
+      "Mark of the Wild"
+    ]
+  },
+  "Warlock — DoT spread": {
+    "class": "Warlock",
+    "style": "DoT spread",
+    "level": [
+      "Corruption",
+      "Curse of Agony",
+      "Immolate",
+      "Rain of Fire",
+      "Drain Life",
+      "Death Coil"
+    ],
+    "loot": [
+      "Seal of the Damned",
+      "Quick Strike Ring",
+      "Earthstrike",
+      "Band of Accuria",
+      "Blooddrinker's Band",
+      "Pendant of the Plague",
+      "Hand of Justice"
+    ],
+    "avoid": [],
+    "banish_loot": [],
+    "capstone": "Seed of Corruption",
+    "race": "Gnome or Orc",
+    "description": "DoT spread, procs and life drain",
+    "verified_capstone": false,
+    "passives": [
+      "Blessing of Might",
+      "Arcane Intellect",
+      "Amplify Magic",
+      "Power Word: Fortitude",
+      "Blessing of Kings",
+      "Mark of the Wild"
+    ]
+  },
+  "Warlock — Voidwalker sustain": {
+    "class": "Warlock",
+    "style": "Voidwalker sustain",
+    "level": [
+      "Demonic Empowerment",
+      "Drain Life",
+      "Death Coil",
+      "Corruption",
+      "Shadow Bolt",
+      "Rain of Fire"
+    ],
+    "loot": [
+      "Archimtiros' Ring of Reckoning",
+      "Star of Mystaria",
+      "Heavy Dark Iron Ring",
+      "Lifegiving Gem",
+      "Blooddrinker's Band",
+      "Quick Strike Ring",
+      "Onyxia Blood Talisman"
+    ],
+    "avoid": [],
+    "banish_loot": [],
+    "capstone": "Pact of the Nathrezim",
+    "race": "Gnome or Orc",
+    "description": "Voidwalker shields and defensive scaling",
+    "verified_capstone": false,
+    "passives": [
+      "Power Word: Fortitude",
+      "Mark of the Wild",
+      "Blessing of Might",
+      "Arcane Intellect",
+      "Blessing of Kings",
+      "Amplify Magic"
+    ]
+  },
+  "Warlock — Fire AoE": {
+    "class": "Warlock",
+    "style": "Fire AoE",
+    "level": [
+      "Rain of Fire",
+      "Hellfire",
+      "Immolate",
+      "Searing Pain",
+      "Drain Life",
+      "Death Coil"
+    ],
+    "loot": [
+      "Quick Strike Ring",
+      "Ring of Spell Power",
+      "Talisman of Ephemeral Power",
+      "Hand of Justice",
+      "Band of Accuria",
+      "Star of Mystaria",
+      "Malice Stone Pendant",
+      "Choker of the Fire Lord"
+    ],
+    "avoid": [],
+    "banish_loot": [],
+    "capstone": "Rain of Chaos",
+    "race": "Gnome or Orc",
+    "description": "Rain of Fire and burning area damage",
+    "verified_capstone": false,
+    "passives": [
+      "Blessing of Might",
+      "Arcane Intellect",
+      "Amplify Magic",
+      "Power Word: Fortitude",
+      "Blessing of Kings",
+      "Mark of the Wild"
+    ]
+  },
+  "Druid — Starfall caster": {
+    "class": "Druid",
+    "style": "Starfall caster",
+    "level": [
+      "Starfire",
+      "Moonfire",
+      "Wrath",
+      "Hurricane",
+      "Rejuvenation",
+      "Entangling Roots"
+    ],
+    "loot": [
+      "Quick Strike Ring",
+      "Ring of Spell Power",
+      "Talisman of Ephemeral Power",
+      "Hand of Justice",
+      "Band of Accuria",
+      "Star of Mystaria",
+      "Malice Stone Pendant",
+      "Choker of the Fire Lord"
+    ],
+    "avoid": [],
+    "banish_loot": [],
+    "capstone": "Force of Nature",
+    "race": "Night Elf or Tauren",
+    "description": "Moonfire + Starfire procs + treants",
+    "verified_capstone": false,
+    "passives": [
+      "Blessing of Might",
+      "Arcane Intellect",
+      "Amplify Magic",
+      "Power Word: Fortitude",
+      "Blessing of Kings",
+      "Mark of the Wild"
+    ]
+  },
+  "Druid — Bear survival": {
+    "class": "Druid",
+    "style": "Bear survival",
+    "level": [
+      "Swipe",
+      "Thorns",
+      "Regrowth",
+      "Rejuvenation",
+      "Insect Swarm",
+      "Entangling Roots"
+    ],
+    "loot": [
+      "Archimtiros' Ring of Reckoning",
+      "Star of Mystaria",
+      "Heavy Dark Iron Ring",
+      "Lifegiving Gem",
+      "Blooddrinker's Band",
+      "Quick Strike Ring",
+      "Onyxia Blood Talisman"
+    ],
+    "avoid": [],
+    "banish_loot": [],
+    "capstone": "Dire Bear Form",
+    "race": "Night Elf or Tauren",
+    "description": "Bear health/armor and regenerating attacks",
+    "verified_capstone": false,
+    "passives": [
+      "Power Word: Fortitude",
+      "Mark of the Wild",
+      "Blessing of Might",
+      "Arcane Intellect",
+      "Blessing of Kings",
+      "Amplify Magic"
+    ]
+  },
+  "Druid — Nature DoT": {
+    "class": "Druid",
+    "style": "Nature DoT",
+    "level": [
+      "Insect Swarm",
+      "Moonfire",
+      "Hurricane",
+      "Wrath",
+      "Rejuvenation",
+      "Entangling Roots"
+    ],
+    "loot": [
+      "Seal of the Damned",
+      "Quick Strike Ring",
+      "Earthstrike",
+      "Band of Accuria",
+      "Blooddrinker's Band",
+      "Pendant of the Plague",
+      "Hand of Justice"
+    ],
+    "avoid": [],
+    "banish_loot": [],
+    "capstone": "Tree of Life",
+    "race": "Night Elf or Tauren",
+    "description": "Nature DoTs and self-healing",
+    "verified_capstone": false,
+    "passives": [
+      "Blessing of Might",
+      "Arcane Intellect",
+      "Amplify Magic",
+      "Power Word: Fortitude",
+      "Blessing of Kings",
+      "Mark of the Wild"
+    ]
+  }
+}
